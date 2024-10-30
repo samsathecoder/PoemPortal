@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "695522404590",
+    "firebase_url": "https://poemportal-2221d-default-rtdb.firebaseio.com",
+    "project_id": "poemportal-2221d",
+    "storage_bucket": "poemportal-2221d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695522404590:android:9c1f6edbbc21edf73f6bff",
+        "android_client_info": {
+          "package_name": "com.PoemPortal.poemportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtEzBuJcyJRdr8RW0c-yd0hJ9uuts5KuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
